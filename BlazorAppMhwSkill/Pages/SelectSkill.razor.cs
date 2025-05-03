@@ -810,7 +810,7 @@ namespace BlazorAppMhwSkill.Pages
                                 skillSearchResults.Add(skillSearchResult);
                                 resultCount++;
 
-                                if (resultCount > 1000)
+                                if (resultCount > 10000)
                                 {
                                     isAllBreak = true;
                                     break;
