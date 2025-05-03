@@ -11282,5 +11282,467 @@
         "Level": 1
       }
     ]
+  },
+  {
+    "Id": 437,
+    "Name": "桜波【御頭】α",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "花舞の祈り",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 2
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 438,
+    "Name": "桜波【直垂】α",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "花舞の祈り",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "納刀術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 439,
+    "Name": "桜波【籠手】α",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "花舞の祈り",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 440,
+    "Name": "桜波【帯】α",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "花舞の祈り",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "納刀術",
+        "Level": 2
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 441,
+    "Name": "桜波【袴】α",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "花舞の祈り",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "アイテム使用強化",
+        "Level": 2
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 442,
+    "Name": "ブロッサムヘッドα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 443,
+    "Name": "ブロッサムベストα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 444,
+    "Name": "ブロッサムカフスα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 445,
+    "Name": "ブロッサムコートα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 1
+      },
+      {
+        "Name": "昆虫標本の達人",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 446,
+    "Name": "ブロッサムブーツα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "祝祭の巡り",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 2
+      },
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 447,
+    "Name": "封印の眼帯α",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 3,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 2,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 3,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "火耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 448,
+    "Name": "シャドウアイα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 4,
+    "Water": 0,
+    "Thunder": 4,
+    "Ice": 2,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 3
+      },
+      {
+        "Name": "閃光強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 449,
+    "Name": "ラウンドアイα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": 4,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 4,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "属性やられ耐性",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 450,
+    "Name": "レダゼルトヘルムγ",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの魂",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "渾身",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 451,
+    "Name": "レダゼルトメイルγ",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの魂",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 452,
+    "Name": "レダゼルトアームγ",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 3,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの魂",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 453,
+    "Name": "レダゼルトコイルγ",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの魂",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 2
+      },
+      {
+        "Name": "渾身",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 454,
+    "Name": "レダゼルトグリーヴγ",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの魂",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 3
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 2
+      }
+    ]
   }
 ]

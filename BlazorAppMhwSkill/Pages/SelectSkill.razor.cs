@@ -112,14 +112,14 @@ namespace BlazorAppMhwSkill.Pages
         /// <returns></returns>
         protected override async Task OnInitializedAsync()
         {
-            var tempArmors = await Http.GetFromJsonAsync<Armor[]>("json/armor.json");
+            var tempArmors = await Http.GetFromJsonAsync<Armor[]>($"json/armor.json?nocache={DateTime.Now.Ticks}");
             if (tempArmors == null)
             {
                 return;
             }
             armors = tempArmors.ToList();
 
-            var tempGosekis = await Http.GetFromJsonAsync<Goseki[]>("json/goseki.json");
+            var tempGosekis = await Http.GetFromJsonAsync<Goseki[]>($"json/goseki.json?nocache={DateTime.Now.Ticks}");
             if (tempGosekis == null)
             {
                 return;
@@ -127,7 +127,7 @@ namespace BlazorAppMhwSkill.Pages
 
             gosekis = tempGosekis.ToList();
 
-            var tempSkills = await Http.GetFromJsonAsync<Skill[]>("json/skill.json");
+            var tempSkills = await Http.GetFromJsonAsync<Skill[]>($"json/skill.json?nocache={DateTime.Now.Ticks}");
             if (tempSkills == null)
             {
                 return;
@@ -218,19 +218,22 @@ namespace BlazorAppMhwSkill.Pages
 
                 foreach (var body in this.armors.Where(r => r.Part == 2 && (allowSeriesSkills.Count == 0 || allowSeriesSkills.Contains(r.SeriesSkill))))
                 {
-                    usedSeriesSkills.Add(body.SeriesSkill);
+                    List<string> bodyUsedSkills = new List<string>(usedSeriesSkills);
+                    List<string> bodyAllowSeriesSkills = new List<string>(allowSeriesSkills);
+
+                    bodyUsedSkills.Add(body.SeriesSkill);
 
                     // あと１種の場合はこれ以上絞らない
-                    if (allowSeriesSkills.Count == 1)
+                    if (bodyAllowSeriesSkills.Count == 1)
                     {
                     }
                     // あと２種の場合１種にしぼれるか検証
-                    else if (allowSeriesSkills.Count == 2)
+                    else if (bodyAllowSeriesSkills.Count == 2)
                     {
                         // 体と頭で同じシリーズスキルを選んだ場合、そのスキルはもう使えない
                         if (body.SeriesSkill == head.SeriesSkill)
                         {
-                            allowSeriesSkills.Remove(body.SeriesSkill);
+                            bodyAllowSeriesSkills.Remove(body.SeriesSkill);
                         }
                     }
                     // まだ絞ってない場合絞れるか検証
@@ -239,7 +242,7 @@ namespace BlazorAppMhwSkill.Pages
                         // シリーズスキル１種で体が違えば
                         if (checkedSeriesSkillCount1 && body.SeriesSkill != this.selectedSeriesSkill)
                         {
-                            allowSeriesSkills.Add(this.selectedSeriesSkill);
+                            bodyAllowSeriesSkills.Add(this.selectedSeriesSkill);
                             useSonota = true;
                         }
                         // シリーズスキル２種
@@ -248,8 +251,8 @@ namespace BlazorAppMhwSkill.Pages
                             // 体がどっちとも違う場合、選択したどっちかしか許可されない
                             if (body.SeriesSkill != this.selectedSeriesSkill && body.SeriesSkill != this.selectedSeriesSkill2)
                             {
-                                allowSeriesSkills.Add(this.selectedSeriesSkill);
-                                allowSeriesSkills.Add(this.selectedSeriesSkill2);
+                                bodyAllowSeriesSkills.Add(this.selectedSeriesSkill);
+                                bodyAllowSeriesSkills.Add(this.selectedSeriesSkill2);
                                 useSonota = true;
                             }
                             // 体と頭で同じシリーズスキルを選んだ場合、そのスキルはもう使えない
@@ -257,11 +260,11 @@ namespace BlazorAppMhwSkill.Pages
                             {
                                 if (body.SeriesSkill == this.selectedSeriesSkill)
                                 {
-                                    allowSeriesSkills.Add(this.selectedSeriesSkill2);
+                                    bodyAllowSeriesSkills.Add(this.selectedSeriesSkill2);
                                 }
                                 else
                                 {
-                                    allowSeriesSkills.Add(this.selectedSeriesSkill);
+                                    bodyAllowSeriesSkills.Add(this.selectedSeriesSkill);
                                 }
 
                             }
@@ -270,10 +273,10 @@ namespace BlazorAppMhwSkill.Pages
 
                     }
 
-                    foreach (var arm in this.armors.Where(r => r.Part == 3 && (allowSeriesSkills.Count == 0 || allowSeriesSkills.Contains(r.SeriesSkill))))
+                    foreach (var arm in this.armors.Where(r => r.Part == 3 && (bodyAllowSeriesSkills.Count == 0 || bodyAllowSeriesSkills.Contains(r.SeriesSkill))))
                     {
-                        List<string> armUsedSkills = new List<string>(usedSeriesSkills);
-                        List<string> armAllowSeriesSkills = new List<string>(allowSeriesSkills);
+                        List<string> armUsedSkills = new List<string>(bodyUsedSkills);
+                        List<string> armAllowSeriesSkills = new List<string>(bodyAllowSeriesSkills);
 
                         armUsedSkills.Add(arm.SeriesSkill);
 
