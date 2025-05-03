@@ -3,7 +3,7 @@ name: Deploy Blazor WebAssembly to GitHub Pages
 on:
   push:
     branches:
-      - main  # ← main ブランチに push されたら実行
+      - master  # ← master ブランチに push されたら実行
 
 jobs:
   build-and-deploy:
