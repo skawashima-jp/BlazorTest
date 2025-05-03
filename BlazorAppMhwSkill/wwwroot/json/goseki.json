@@ -1,0 +1,980 @@
+[
+  {
+    "GosekiName": "希望の護石",
+    "Rare": 5,
+    "SkillName": "体力回復量UP",
+    "Level": 1
+  },
+  {
+    "GosekiName": "逆上の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "逆恨み",
+    "Level": 1
+  },
+  {
+    "GosekiName": "逆上の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "逆恨み",
+    "Level": 2
+  },
+  {
+    "GosekiName": "反攻の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "巧撃",
+    "Level": 1
+  },
+  {
+    "GosekiName": "反攻の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "巧撃",
+    "Level": 2
+  },
+  {
+    "GosekiName": "無傷の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "フルチャージ",
+    "Level": 1
+  },
+  {
+    "GosekiName": "無傷の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "フルチャージ",
+    "Level": 2
+  },
+  {
+    "GosekiName": "逆襲の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "逆襲",
+    "Level": 1
+  },
+  {
+    "GosekiName": "逆襲の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "逆襲",
+    "Level": 2
+  },
+  {
+    "GosekiName": "逆襲の護石Ⅲ",
+    "Rare": 7,
+    "SkillName": "逆襲",
+    "Level": 3
+  },
+  {
+    "GosekiName": "痛撃の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "弱点特効",
+    "Level": 1
+  },
+  {
+    "GosekiName": "痛撃の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "弱点特効",
+    "Level": 2
+  },
+  {
+    "GosekiName": "渾身の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "渾身",
+    "Level": 1
+  },
+  {
+    "GosekiName": "渾身の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "渾身",
+    "Level": 2
+  },
+  {
+    "GosekiName": "属変の護石Ⅰ",
+    "Rare": 7,
+    "SkillName": "属性変換",
+    "Level": 1
+  },
+  {
+    "GosekiName": "属変の護石Ⅱ",
+    "Rare": 8,
+    "SkillName": "属性変換",
+    "Level": 2
+  },
+  {
+    "GosekiName": "防御の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "防御",
+    "Level": 1
+  },
+  {
+    "GosekiName": "防御の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "防御",
+    "Level": 2
+  },
+  {
+    "GosekiName": "防御の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "防御",
+    "Level": 3
+  },
+  {
+    "GosekiName": "防御の護石Ⅳ",
+    "Rare": 6,
+    "SkillName": "防御",
+    "Level": 4
+  },
+  {
+    "GosekiName": "加護の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "精霊の加護",
+    "Level": 1
+  },
+  {
+    "GosekiName": "加護の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "精霊の加護",
+    "Level": 2
+  },
+  {
+    "GosekiName": "加護の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "精霊の加護",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐火の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "火耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐火の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "火耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐火の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "火耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐水の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "水耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐水の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "水耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐水の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "水耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐雷の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "雷耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐雷の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "雷耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐雷の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "雷耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐氷の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "氷耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐氷の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "氷耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐氷の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "氷耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐龍の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "龍耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐龍の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "龍耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐龍の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "龍耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐毒の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "毒耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐毒の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "毒耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐毒の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "毒耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐麻の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "麻痺耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐麻の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "麻痺耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐麻の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "麻痺耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐眠の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "睡眠耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐眠の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "睡眠耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐眠の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "睡眠耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐防の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "防御力DOWN耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐防の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "防御力DOWN耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐防の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "防御力DOWN耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐属の護石Ⅰ",
+    "Rare": 6,
+    "SkillName": "属性やられ耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐属の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "属性やられ耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐絶の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "気絶耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐絶の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "気絶耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐絶の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "気絶耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐裂の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "裂傷耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐裂の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "裂傷耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐裂の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "裂傷耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐拘の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "拘束耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐拘の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "拘束耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐拘の護石Ⅲ",
+    "Rare": 7,
+    "SkillName": "拘束耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐爆の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "爆破やられ耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐爆の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "爆破やられ耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐爆の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "爆破やられ耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "治癒の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "体力回復量UP",
+    "Level": 1
+  },
+  {
+    "GosekiName": "治癒の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "体力回復量UP",
+    "Level": 2
+  },
+  {
+    "GosekiName": "治癒の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "体力回復量UP",
+    "Level": 3
+  },
+  {
+    "GosekiName": "早復の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "回復速度",
+    "Level": 1
+  },
+  {
+    "GosekiName": "早復の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "回復速度",
+    "Level": 2
+  },
+  {
+    "GosekiName": "早復の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "回復速度",
+    "Level": 3
+  },
+  {
+    "GosekiName": "環境の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "環境利用の知識",
+    "Level": 1
+  },
+  {
+    "GosekiName": "環境の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "環境利用の知識",
+    "Level": 2
+  },
+  {
+    "GosekiName": "環境の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "環境利用の知識",
+    "Level": 3
+  },
+  {
+    "GosekiName": "体術の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "体術",
+    "Level": 1
+  },
+  {
+    "GosekiName": "体術の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "体術",
+    "Level": 2
+  },
+  {
+    "GosekiName": "体術の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "体術",
+    "Level": 3
+  },
+  {
+    "GosekiName": "体術の護石Ⅳ",
+    "Rare": 7,
+    "SkillName": "体術",
+    "Level": 4
+  },
+  {
+    "GosekiName": "体術の護石Ⅴ",
+    "Rare": 8,
+    "SkillName": "体術",
+    "Level": 5
+  },
+  {
+    "GosekiName": "早気の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "スタミナ急速回復",
+    "Level": 1
+  },
+  {
+    "GosekiName": "早気の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "スタミナ急速回復",
+    "Level": 2
+  },
+  {
+    "GosekiName": "早気の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "スタミナ急速回復",
+    "Level": 3
+  },
+  {
+    "GosekiName": "強走の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "ランナー",
+    "Level": 1
+  },
+  {
+    "GosekiName": "強走の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "ランナー",
+    "Level": 2
+  },
+  {
+    "GosekiName": "強走の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "ランナー",
+    "Level": 3
+  },
+  {
+    "GosekiName": "無食の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "腹減り耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "無食の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "腹減り耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "無食の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "腹減り耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "挑戦の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "挑戦者",
+    "Level": 1
+  },
+  {
+    "GosekiName": "挑戦の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "挑戦者",
+    "Level": 2
+  },
+  {
+    "GosekiName": "全開の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "力の解放",
+    "Level": 1
+  },
+  {
+    "GosekiName": "全開の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "力の解放",
+    "Level": 2
+  },
+  {
+    "GosekiName": "底力の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "火事場力",
+    "Level": 1
+  },
+  {
+    "GosekiName": "底力の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "火事場力",
+    "Level": 2
+  },
+  {
+    "GosekiName": "底力の護石Ⅲ",
+    "Rare": 7,
+    "SkillName": "火事場力",
+    "Level": 3
+  },
+  {
+    "GosekiName": "攻勢の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "攻勢",
+    "Level": 1
+  },
+  {
+    "GosekiName": "攻勢の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "攻勢",
+    "Level": 2
+  },
+  {
+    "GosekiName": "連撃の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "連撃",
+    "Level": 1
+  },
+  {
+    "GosekiName": "連撃の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "連撃",
+    "Level": 2
+  },
+  {
+    "GosekiName": "鎖刃の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "鎖刃刺撃",
+    "Level": 1
+  },
+  {
+    "GosekiName": "鎖刃の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "鎖刃刺撃",
+    "Level": 2
+  },
+  {
+    "GosekiName": "重撃の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "破壊王",
+    "Level": 1
+  },
+  {
+    "GosekiName": "重撃の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "破壊王",
+    "Level": 2
+  },
+  {
+    "GosekiName": "転福の護石Ⅰ",
+    "Rare": 6,
+    "SkillName": "災禍転福",
+    "Level": 1
+  },
+  {
+    "GosekiName": "転福の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "災禍転福",
+    "Level": 2
+  },
+  {
+    "GosekiName": "急襲の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "急襲",
+    "Level": 1
+  },
+  {
+    "GosekiName": "急襲の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "急襲",
+    "Level": 2
+  },
+  {
+    "GosekiName": "抗狂の護石Ⅰ",
+    "Rare": 5,
+    "SkillName": "無我の境地",
+    "Level": 1
+  },
+  {
+    "GosekiName": "抗狂の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "無我の境地",
+    "Level": 2
+  },
+  {
+    "GosekiName": "抗狂の護石Ⅲ",
+    "Rare": 7,
+    "SkillName": "無我の境地",
+    "Level": 3
+  },
+  {
+    "GosekiName": "属吸の護石Ⅰ",
+    "Rare": 7,
+    "SkillName": "属性吸収",
+    "Level": 1
+  },
+  {
+    "GosekiName": "回避の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "回避性能",
+    "Level": 1
+  },
+  {
+    "GosekiName": "回避の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "回避性能",
+    "Level": 2
+  },
+  {
+    "GosekiName": "回避の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "回避性能",
+    "Level": 3
+  },
+  {
+    "GosekiName": "回避の護石Ⅳ",
+    "Rare": 7,
+    "SkillName": "回避性能",
+    "Level": 4
+  },
+  {
+    "GosekiName": "跳躍の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "回避距離UP",
+    "Level": 1
+  },
+  {
+    "GosekiName": "跳躍の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "回避距離UP",
+    "Level": 2
+  },
+  {
+    "GosekiName": "跳躍の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "回避距離UP",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耳栓の護石Ⅰ",
+    "Rare": 6,
+    "SkillName": "耳栓",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耳栓の護石Ⅱ",
+    "Rare": 7,
+    "SkillName": "耳栓",
+    "Level": 2
+  },
+  {
+    "GosekiName": "納刀の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "納刀術",
+    "Level": 1
+  },
+  {
+    "GosekiName": "納刀の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "納刀術",
+    "Level": 2
+  },
+  {
+    "GosekiName": "納刀の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "納刀術",
+    "Level": 3
+  },
+  {
+    "GosekiName": "防風の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "風圧耐性",
+    "Level": 1
+  },
+  {
+    "GosekiName": "防風の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "風圧耐性",
+    "Level": 2
+  },
+  {
+    "GosekiName": "防風の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "風圧耐性",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐震の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "耐震",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐震の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "耐震",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐震の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "耐震",
+    "Level": 3
+  },
+  {
+    "GosekiName": "耐衝の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "ひるみ軽減",
+    "Level": 1
+  },
+  {
+    "GosekiName": "耐衝の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "ひるみ軽減",
+    "Level": 2
+  },
+  {
+    "GosekiName": "耐衝の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "ひるみ軽減",
+    "Level": 3
+  },
+  {
+    "GosekiName": "威嚇の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "威嚇",
+    "Level": 1
+  },
+  {
+    "GosekiName": "威嚇の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "威嚇",
+    "Level": 2
+  },
+  {
+    "GosekiName": "威嚇の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "威嚇",
+    "Level": 3
+  },
+  {
+    "GosekiName": "早食の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "早食い",
+    "Level": 1
+  },
+  {
+    "GosekiName": "早食の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "早食い",
+    "Level": 2
+  },
+  {
+    "GosekiName": "早食の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "早食い",
+    "Level": 3
+  },
+  {
+    "GosekiName": "友愛の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "広域化",
+    "Level": 1
+  },
+  {
+    "GosekiName": "友愛の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "広域化",
+    "Level": 2
+  },
+  {
+    "GosekiName": "友愛の護石Ⅲ",
+    "Rare": 4,
+    "SkillName": "広域化",
+    "Level": 3
+  },
+  {
+    "GosekiName": "友愛の護石Ⅳ",
+    "Rare": 5,
+    "SkillName": "広域化",
+    "Level": 4
+  },
+  {
+    "GosekiName": "整備の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "整備",
+    "Level": 1
+  },
+  {
+    "GosekiName": "整備の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "整備",
+    "Level": 2
+  },
+  {
+    "GosekiName": "整備の護石Ⅲ",
+    "Rare": 7,
+    "SkillName": "整備",
+    "Level": 3
+  },
+  {
+    "GosekiName": "爆師の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "ボマー",
+    "Level": 1
+  },
+  {
+    "GosekiName": "爆師の護石Ⅱ",
+    "Rare": 5,
+    "SkillName": "ボマー",
+    "Level": 2
+  },
+  {
+    "GosekiName": "爆師の護石Ⅲ",
+    "Rare": 6,
+    "SkillName": "ボマー",
+    "Level": 3
+  },
+  {
+    "GosekiName": "茸好の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "キノコ大好き",
+    "Level": 1
+  },
+  {
+    "GosekiName": "茸好の護石Ⅱ",
+    "Rare": 6,
+    "SkillName": "キノコ大好き",
+    "Level": 2
+  },
+  {
+    "GosekiName": "茸好の護石Ⅲ",
+    "Rare": 7,
+    "SkillName": "キノコ大好き",
+    "Level": 3
+  },
+  {
+    "GosekiName": "持続の護石Ⅰ",
+    "Rare": 3,
+    "SkillName": "アイテム使用強化",
+    "Level": 1
+  },
+  {
+    "GosekiName": "持続の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "アイテム使用強化",
+    "Level": 2
+  },
+  {
+    "GosekiName": "持続の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "アイテム使用強化",
+    "Level": 3
+  },
+  {
+    "GosekiName": "小食の護石Ⅰ",
+    "Rare": 4,
+    "SkillName": "満足感",
+    "Level": 1
+  },
+  {
+    "GosekiName": "小食の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "満足感",
+    "Level": 2
+  },
+  {
+    "GosekiName": "小食の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "満足感",
+    "Level": 3
+  },
+  {
+    "GosekiName": "植学の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "植生学",
+    "Level": 1
+  },
+  {
+    "GosekiName": "植学の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "植生学",
+    "Level": 2
+  },
+  {
+    "GosekiName": "植学の護石Ⅲ",
+    "Rare": 4,
+    "SkillName": "植生学",
+    "Level": 3
+  },
+  {
+    "GosekiName": "植学の護石Ⅳ",
+    "Rare": 5,
+    "SkillName": "植生学",
+    "Level": 4
+  },
+  {
+    "GosekiName": "地学の護石Ⅰ",
+    "Rare": 2,
+    "SkillName": "地質学",
+    "Level": 1
+  },
+  {
+    "GosekiName": "地学の護石Ⅱ",
+    "Rare": 4,
+    "SkillName": "地質学",
+    "Level": 2
+  },
+  {
+    "GosekiName": "地学の護石Ⅲ",
+    "Rare": 5,
+    "SkillName": "地質学",
+    "Level": 3
+  }
+]

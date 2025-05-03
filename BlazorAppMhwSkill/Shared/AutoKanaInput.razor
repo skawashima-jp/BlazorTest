@@ -1,0 +1,72 @@
+﻿<div>
+    <input id="inputField" @bind-value="InputText" @bind-value:event="oninput" />
+    <input value="@ConvertedText" readonly />
+</div>
+
+@code {
+    [Parameter]
+    public string? Value { get; set; }
+
+    [Parameter]
+    public EventCallback<string> ValueChanged { get; set; }
+
+    private string InputText { get; set; } = string.Empty;
+    private string ConvertedText { get; set; } = string.Empty;
+    private string LastInputText { get; set; } = string.Empty;
+    private bool IsImeOn { get; set; } = false;
+
+    private string InputId { get; } = $"input_{Guid.NewGuid()}"; // 一意なID
+
+    [Inject]
+    private IJSRuntime JS { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("registerCompositionListener", InputId, DotNetObjectReference.Create(this));
+        }
+    }
+
+    [JSInvokable]
+    public void SetImeState(bool isOn)
+    {
+        IsImeOn = isOn;
+    }
+
+    [JSInvokable]
+    public async Task UpdateKana(string text)
+    {
+        if (text == null) text = string.Empty;
+
+        string diff = GetDiff(LastInputText, text);
+
+        if (!string.IsNullOrEmpty(diff))
+        {
+            ConvertedText += ConvertToHankakuKana(diff);
+            Value = ConvertedText;
+            await ValueChanged.InvokeAsync(ConvertedText);
+        }
+
+        LastInputText = text;
+        StateHasChanged();
+    }
+
+    private string GetDiff(string oldText, string newText)
+    {
+        if (newText.StartsWith(oldText))
+        {
+            return newText.Substring(oldText.Length);
+        }
+        else
+        {
+            return newText;
+        }
+    }
+
+    private string ConvertToHankakuKana(string input)
+    {
+        // カタカナ＋半角カナ変換する処理
+        return input; // 仮
+    }
+}

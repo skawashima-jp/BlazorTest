@@ -1,0 +1,259 @@
+﻿@page "/skill"
+
+<h1>@Title</h1>
+
+@if (armors == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="container container-m">
+        <div class="row">
+            <div class="col-md-2">
+                <p>シリーズスキルの数</p>
+            </div>
+            <div class="col-md-2">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="1" checked="@checkedSeriesSkillCount1" @onchange="OnModeChanged">
+                    <label class="form-check-label" for="inlineRadio1">1</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="2" checked="@checkedSeriesSkillCount2" @onchange="OnModeChanged">
+                    <label class="form-check-label" for="inlineRadio2">2</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <p>シリーズスキル1</p>
+            </div>
+            <div class="col-md-10">
+                <select class="form-select" aria-label="Default select example" @bind="selectedSeriesSkill">
+                    <option selected></option>
+                    @foreach (string seriesSkill in seriesSkills)
+                    {
+                        <option value="@seriesSkill">@seriesSkill</option>
+                    }
+                </select>
+            </div>
+        </div>
+        @if (selectedSeriesSkillCount == "2")
+        {
+
+            <div class="row">
+                <div class="col-md-2">
+                    <p>シリーズスキル2</p>
+                </div>
+                <div class="col-md-10">
+                    <select class="form-select" aria-label="Default select example" @bind="selectedSeriesSkill2">
+                        <option selected></option>
+                        @foreach (string seriesSkill in seriesSkills)
+                        {
+                            <option value="@seriesSkill">@seriesSkill</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        }
+        <div class="row">
+            <div class="col-md-2">
+                <p>グループスキル</p>
+            </div>
+            <div class="col-md-10">
+                <select class="form-select" aria-label="Default select example" @bind="selectedGroupSkill">
+                    <option selected></option>
+                    @foreach (string groupSkill in groupSkills)
+                    {
+                        <option value="@groupSkill">@groupSkill</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <h3>属性耐性</h3>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <label>火耐性</label>
+                </td>
+                <td>
+                    <input type="number" class="form-control" @bind="requiredFire" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>水耐性</label>
+                </td>
+                <td>
+                    <input type="number" class="form-control" @bind="requiredWater" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>雷耐性</label>
+                </td>
+                <td>
+                    <input type="number" class="form-control" @bind="requiredThunder" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>氷耐性</label>
+                </td>
+                <td>
+                    <input type="number" class="form-control" @bind="requiredIce" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>龍耐性</label>
+                </td>
+                <td>
+                    <input type="number" class="form-control" @bind="requiredDragon" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>欲しいスキル</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>スキル</th>
+                <th>レベル</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var condSkill in condSkills)
+            {
+                <tr>
+                    <td>
+                        @* <input class="form-control" @bind="condSkill.SkillName" /> *@
+
+                        <select class="form-select" aria-label="Default select example" @bind="condSkill.SkillName">
+                            <option selected></option>
+                            @foreach (var skill in skills)
+                            {
+                                <option value="@skill.SkillName">@skill.SkillName</option>
+                            }
+                        </select>
+                    </td>
+                    <td>
+                        <input type="number" class="form-control" @bind="condSkill.SkillLevel" />
+                    </td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="() => RemoveItem(condSkill)">削除</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button class="btn btn-primary" @onclick="AddItem">スキルの条件を追加</button>
+    <br />
+
+    <button class="btn btn-success" @onclick="Search">条件に合う防具の組み合わせを抽出</button>
+
+    <br />
+    <h3>入力・追加可能な一覧</h3>
+    <button class="btn btn-primary" @onclick="DownloadCsv">ダウンロード</button>
+    <div>
+        <div style="width: 1300px; height:600px; overflow:auto; border: 1px solid #ccc;">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th style="min-width:40px; white-space:nowrap;">頭</th>
+                        <th style="min-width:40px; white-space:nowrap;">体</th>
+                        <th style="min-width:40px; white-space:nowrap;">腕</th>
+                        <th style="min-width:40px; white-space:nowrap;">胴</th>
+                        <th style="min-width:40px; white-space:nowrap;">足</th>
+                        <th style="min-width:200px; white-space:nowrap;">追加スキル</th>
+                        <th style="min-width:40px; white-space:nowrap;">護石</th>
+                        <th style="min-width:200px; white-space:nowrap;">余りスキル</th>
+                        <th>3スロ余</th>
+                        <th>2スロ余</th>
+                        <th>1スロ余</th>
+                        <th style="min-width:10px; white-space:nowrap;">火</th>
+                        <th style="min-width:10px; white-space:nowrap;">水</th>
+                        <th style="min-width:10px; white-space:nowrap;">雷</th>
+                        <th style="min-width:10px; white-space:nowrap;">氷</th>
+                        <th style="min-width:10px; white-space:nowrap;">龍</th>
+                        <th style="min-width:10px; white-space:nowrap;">グループスキル</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var skillSearchResult in skillSearchResults)
+                    {
+                        <tr>
+                            <td style="min-width:40px; white-space:nowrap;">@skillSearchResult.Head</td>
+                            <td style="min-width:40px; white-space:nowrap;">@skillSearchResult.Body</td>
+                            <td style="min-width:40px; white-space:nowrap;">@skillSearchResult.Arm</td>
+                            <td style="min-width:40px; white-space:nowrap;">@skillSearchResult.Weist</td>
+                            <td style="min-width:40px; white-space:nowrap;">@skillSearchResult.Foot</td>
+                            <td style="max-width:100rem; white-space:nowrap;">
+                                @skillSearchResult.GetAddSkillsString()
+@*                                 @foreach (var addSkill in skillSearchResult.AddSkills)
+                                {
+                                    <span>@addSkill.SkillName</span>
+                                    <span>:</span>
+                                    <span>@addSkill.SkillLevel</span>
+                                    <span>|</span>
+                                } *@
+                            </td>
+                            <td>@skillSearchResult.UsedGoseki</td>
+                            <td style="max-width:100rem; white-space:nowrap;">
+                                @skillSearchResult.GetAmariSkillsString()
+                                @* @foreach (var amariSkill in skillSearchResult.AmariSkills)
+                                {
+                                    <span>@amariSkill.SkillName</span>
+                                    <span>:</span>
+                                    <span>@amariSkill.SkillLevel</span>
+                                    <span>|</span>
+                                } *@
+                            </td>
+                            <td>@skillSearchResult.Slot3</td>
+                            <td>@skillSearchResult.Slot2</td>
+                            <td>@skillSearchResult.Slot1</td>
+                            <td>@skillSearchResult.Fire</td>
+                            <td>@skillSearchResult.Water</td>
+                            <td>@skillSearchResult.Thunder</td>
+                            <td>@skillSearchResult.Ice</td>
+                            <td>@skillSearchResult.Dragon</td>
+                            <td>@skillSearchResult.GroupSkill</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <br />
+@*     <button class="btn btn-success" @onclick="PrintItems">一覧を取得</button>
+
+
+    <button class="btn btn-primary" @onclick="DownloadCsv">ダウンロード</button>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Part</th>
+                <th>SeriesSkill</th>
+                <th>GroupSkill</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var armor in armors.Where(r => r.Part == 1))
+            {
+                <tr>
+                    <td>@armor.Name</td>
+                    <td>@armor.Part</td>
+                    <td>@armor.SeriesSkill</td>
+                    <td>@armor.GroupSkill</td>
+                </tr>
+            }
+        </tbody>
+    </table> *@
+}

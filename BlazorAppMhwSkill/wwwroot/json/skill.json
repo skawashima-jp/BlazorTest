@@ -1,0 +1,352 @@
+[
+  {
+    "SkillName": "精霊の加護",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "毒耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "睡眠耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "気絶耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "植生学",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "腹減り耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "地質学",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "氷耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "回復速度",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "ランナー",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "納刀術",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "ひるみ軽減",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "耐震",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "弱点特効",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "昆虫標本の達人",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "連撃",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "飛び込み",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "水耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "水場・油泥適応",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "環境利用の知識",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "回避性能",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "急襲",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "麻痺耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "体術",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "挑戦者",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "体力回復量UP",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "早食い",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "広域化",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "アイテム使用強化",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "スタミナ急速回復",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "逆恨み",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "力の解放",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "火耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "回避距離UP",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "攻勢",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "耳栓",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "威嚇",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "キノコ大好き",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "拘束耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "満足感",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "フルチャージ",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "渾身",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "ボマー",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "爆破やられ耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "破壊王",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "オトモへの采配",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "逆襲",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "火事場力",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "風圧耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "巧撃",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "整備",
+    "Slot": 2,
+    "Rare": 4
+  },
+  {
+    "SkillName": "無我の境地",
+    "Slot": 1,
+    "Rare": 5
+  },
+  {
+    "SkillName": "属性吸収",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "属性変換",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "鎖刃刺撃",
+    "Slot": 3,
+    "Rare": 5
+  },
+  {
+    "SkillName": "属性やられ耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "防御力DOWN耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "裂傷耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "閃光強化",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "災禍転福",
+    "Slot": 2,
+    "Rare": 7
+  },
+  {
+    "SkillName": "ジャンプ鉄人",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "環境適応",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "ハンター生活",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "雷耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "龍耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "防御",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "研鑽",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "緩衝",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "悪臭耐性",
+    "Slot": 1,
+    "Rare": 3
+  },
+  {
+    "SkillName": "クライマー",
+    "Slot": 1,
+    "Rare": 3
+  }
+]

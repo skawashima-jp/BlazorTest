@@ -1,0 +1,11286 @@
+[
+  {
+    "Id": 1,
+    "Name": "ホープマスクα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 1,
+    "Water": 0,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "ホープメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 1,
+    "Water": 0,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "ホープアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 1,
+    "Water": 0,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "睡眠耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "ホープコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 1,
+    "Water": 0,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      },
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "ホープグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 1,
+    "Water": 0,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "レザーヘッドα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "植生学",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "レザーベストα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "植生学",
+        "Level": 1
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "レザーグラブα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "植生学",
+        "Level": 1
+      },
+      {
+        "Name": "腹減り耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "レザーベルトα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "腹減り耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "レザーパンツα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "腹減り耐性",
+        "Level": 1
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "チェーンヘッドα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "地質学",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "チェーンベストα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "氷耐性",
+        "Level": 1
+      },
+      {
+        "Name": "地質学",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "チェーングラブα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 1
+      },
+      {
+        "Name": "地質学",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "チェーンベルトα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "氷耐性",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "チェーンパンツα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 26,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "ボーンヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      },
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "ボーンメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      },
+      {
+        "Name": "ランナー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "ボーンアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "ランナー",
+        "Level": 1
+      },
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "ボーンコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "ランナー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "ボーングリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "アロイヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "納刀術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "アロイメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "アロイアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "アロイコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "納刀術",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "アロイグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "納刀術",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "ブラチカグラスα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "昆虫標本の達人",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "ブラチカグラスβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "昆虫標本の達人",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "タリオスアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      },
+      {
+        "Name": "飛び込み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "Name": "タリオスアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "飛び込み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "ピラギルグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -3,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "水耐性",
+        "Level": 2
+      },
+      {
+        "Name": "水場・油泥適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Name": "ピラギルグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -3,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "水場・油泥適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Name": "ランゴヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "Name": "ランゴメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Name": "ランゴアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "急襲",
+        "Level": 1
+      },
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "Name": "ランゴコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 36,
+    "Name": "ランゴグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      },
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "Name": "ランゴヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 38,
+    "Name": "ランゴメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "Name": "ランゴアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Name": "ランゴコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 41,
+    "Name": "ランゴグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -2,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "Name": "クラノダスメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 2
+      },
+      {
+        "Name": "破壊王",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Name": "クラノダスメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Name": "ネラチカアクセサリα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -5,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 3,
+    "Dragon": 3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "睡眠耐性",
+        "Level": 2
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Name": "ネラチカアクセサリβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 32,
+    "Fire": -5,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 3,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "睡眠耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "Name": "クックヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "火耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "Name": "クックメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "火耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Name": "クックアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "Name": "クックコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 2
+      },
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "Name": "クックグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "Name": "クックヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "Name": "クックメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "Name": "クックアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "Name": "クックコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "Name": "クックグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 3,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": -4,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "Name": "チャタヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 1
+      },
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "Name": "チャタメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "Name": "チャタアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 1
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "Name": "チャタコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 1
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "Name": "チャタグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 61,
+    "Name": "チャタヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 62,
+    "Name": "チャタメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 63,
+    "Name": "チャタアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "アイテム使用強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 64,
+    "Name": "チャタコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 65,
+    "Name": "チャタグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 66,
+    "Name": "ゲリョスヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      },
+      {
+        "Name": "閃光強化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 67,
+    "Name": "ゲリョスメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 68,
+    "Name": "ゲリョスアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      },
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 69,
+    "Name": "ゲリョスコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 70,
+    "Name": "ゲリョスグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "ランナー",
+        "Level": 2
+      },
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 71,
+    "Name": "ゲリョスヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 72,
+    "Name": "ゲリョスメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "Name": "ゲリョスアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 74,
+    "Name": "ゲリョスコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 75,
+    "Name": "ゲリョスグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -4,
+    "Water": 3,
+    "Thunder": 4,
+    "Ice": -1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "ランナー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 76,
+    "Name": "トリスヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 77,
+    "Name": "トリスメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      },
+      {
+        "Name": "火耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 78,
+    "Name": "トリスアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "火耐性",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 79,
+    "Name": "トリスコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      },
+      {
+        "Name": "火耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "Name": "トリスグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 81,
+    "Name": "トリスヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "Name": "トリスメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 83,
+    "Name": "トリスアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 84,
+    "Name": "トリスコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "火耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "Name": "トリスグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 2,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 86,
+    "Name": "ラバラヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "Name": "ラバラメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 2
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 88,
+    "Name": "ラバラアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 89,
+    "Name": "ラバラコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 90,
+    "Name": "ラバラグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 91,
+    "Name": "ラバラヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 92,
+    "Name": "ラバラメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 93,
+    "Name": "ラバラアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 94,
+    "Name": "ラバラコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 95,
+    "Name": "ラバラグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 3,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 96,
+    "Name": "プポルヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 97,
+    "Name": "プポルメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 2
+      },
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 98,
+    "Name": "プポルアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 99,
+    "Name": "プポルコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 100,
+    "Name": "プポルグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 101,
+    "Name": "プポルヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 102,
+    "Name": "プポルメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 103,
+    "Name": "プポルアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 104,
+    "Name": "プポルコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 105,
+    "Name": "プポルグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": -3,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 106,
+    "Name": "コンガヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "威嚇",
+        "Level": 1
+      },
+      {
+        "Name": "満足感",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 107,
+    "Name": "コンガメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "威嚇",
+        "Level": 2
+      },
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 108,
+    "Name": "コンガアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 1
+      },
+      {
+        "Name": "キノコ大好き",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 109,
+    "Name": "コンガコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "キノコ大好き",
+        "Level": 1
+      },
+      {
+        "Name": "満足感",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 110,
+    "Name": "コンガグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      },
+      {
+        "Name": "キノコ大好き",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 111,
+    "Name": "コンガヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "威嚇",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 112,
+    "Name": "コンガメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "威嚇",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 113,
+    "Name": "コンガアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "キノコ大好き",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 114,
+    "Name": "コンガコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "キノコ大好き",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 115,
+    "Name": "コンガグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 116,
+    "Name": "バーラヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "地質学",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 117,
+    "Name": "バーラメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "地質学",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 118,
+    "Name": "バーラアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 119,
+    "Name": "バーラコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 120,
+    "Name": "バーラグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      },
+      {
+        "Name": "地質学",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 121,
+    "Name": "バーラヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 122,
+    "Name": "バーラメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "地質学",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 123,
+    "Name": "バーラアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 124,
+    "Name": "バーラコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Name": "バーラグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -1,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Name": "レイアヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Name": "レイアメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 128,
+    "Name": "レイアアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 129,
+    "Name": "レイアコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "整備",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 130,
+    "Name": "レイアグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 2
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 131,
+    "Name": "レイアヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 132,
+    "Name": "レイアメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 133,
+    "Name": "レイアアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 134,
+    "Name": "レイアコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 135,
+    "Name": "レイアグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -2,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 136,
+    "Name": "スキュラヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 2
+      },
+      {
+        "Name": "拘束耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 137,
+    "Name": "スキュラメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 138,
+    "Name": "スキュラアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 139,
+    "Name": "スキュラコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "睡眠耐性",
+        "Level": 2
+      },
+      {
+        "Name": "拘束耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 140,
+    "Name": "スキュラグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の知らせ",
+    "Skills": [
+      {
+        "Name": "睡眠耐性",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 141,
+    "Name": "スキュラヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "拘束耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 142,
+    "Name": "スキュラメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 143,
+    "Name": "スキュラアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 144,
+    "Name": "スキュラコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "拘束耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 145,
+    "Name": "スキュラグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "甲虫の擬態",
+    "Skills": [
+      {
+        "Name": "睡眠耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 146,
+    "Name": "ドシャグマヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "満足感",
+        "Level": 2
+      },
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 147,
+    "Name": "ドシャグマメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 148,
+    "Name": "ドシャグマアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 2
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 149,
+    "Name": "ドシャグマコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "Name": "ドシャグマグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 2
+      },
+      {
+        "Name": "満足感",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 151,
+    "Name": "ドシャグマヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      },
+      {
+        "Name": "満足感",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 152,
+    "Name": "ドシャグマメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 153,
+    "Name": "ドシャグマアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 154,
+    "Name": "ドシャグマコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 155,
+    "Name": "ドシャグマグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      },
+      {
+        "Name": "満足感",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 156,
+    "Name": "ヒラバミヘルムα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 157,
+    "Name": "ヒラバミメイルα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "氷耐性",
+        "Level": 2
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 158,
+    "Name": "ヒラバミアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 159,
+    "Name": "ヒラバミコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 160,
+    "Name": "ヒラバミグリーヴα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "氷耐性",
+        "Level": 1
+      },
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 161,
+    "Name": "ヒラバミヘルムβ",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 162,
+    "Name": "ヒラバミメイルβ",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "氷耐性",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 163,
+    "Name": "ヒラバミアームβ",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 164,
+    "Name": "ヒラバミコイルβ",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 165,
+    "Name": "ヒラバミグリーヴβ",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 38,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 166,
+    "Name": "護雷顎竜ヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 167,
+    "Name": "護雷顎竜メイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 1
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "Name": "護雷顎竜アームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "渾身",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 169,
+    "Name": "護雷顎竜コイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 170,
+    "Name": "護雷顎竜グリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 2
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 171,
+    "Name": "護雷顎竜ヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 172,
+    "Name": "護雷顎竜メイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 173,
+    "Name": "護雷顎竜アームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 174,
+    "Name": "護雷顎竜コイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 175,
+    "Name": "護雷顎竜グリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": -3,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "雷顎竜の闘志",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 176,
+    "Name": "インゴットヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": 3,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      },
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 177,
+    "Name": "インゴットメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": 3,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "Name": "インゴットアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": 3,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 2
+      },
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "Name": "インゴットコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": 3,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "Name": "インゴットグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": 3,
+    "Ice": -1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "Name": "護竜セクレトコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 4,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 2
+      },
+      {
+        "Name": "ジャンプ鉄人",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "Name": "護竜セクレトコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 4,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      },
+      {
+        "Name": "ジャンプ鉄人",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "Name": "アジャラヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      },
+      {
+        "Name": "ボマー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "Name": "アジャラメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      },
+      {
+        "Name": "爆破やられ耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "Name": "アジャラアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "ボマー",
+        "Level": 2
+      },
+      {
+        "Name": "破壊王",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "Name": "アジャラコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "爆破やられ耐性",
+        "Level": 2
+      },
+      {
+        "Name": "破壊王",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 187,
+    "Name": "アジャラグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "破壊王",
+        "Level": 2
+      },
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 188,
+    "Name": "アジャラヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "ボマー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 189,
+    "Name": "アジャラメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 190,
+    "Name": "アジャラアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "破壊王",
+        "Level": 1
+      },
+      {
+        "Name": "ボマー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 191,
+    "Name": "アジャラコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "破壊王",
+        "Level": 2
+      },
+      {
+        "Name": "爆破やられ耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 192,
+    "Name": "アジャラグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "破壊王",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 193,
+    "Name": "ブランゴヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 194,
+    "Name": "ブランゴメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "アイテム使用強化",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 195,
+    "Name": "ブランゴアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "オトモへの采配",
+        "Level": 2
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 196,
+    "Name": "ブランゴコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 197,
+    "Name": "ブランゴグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 198,
+    "Name": "ブランゴヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 199,
+    "Name": "ブランゴメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 200,
+    "Name": "ブランゴアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 201,
+    "Name": "ブランゴコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 202,
+    "Name": "ブランゴグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -4,
+    "Water": 1,
+    "Thunder": 0,
+    "Ice": 4,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "雪獅子の闘志",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "Name": "護闢獣ヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "腹減り耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "Name": "護闢獣メイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "防御力DOWN耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "Name": "護闢獣アームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "防御力DOWN耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 206,
+    "Name": "護闢獣コイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 2
+      },
+      {
+        "Name": "腹減り耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 207,
+    "Name": "護闢獣グリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 208,
+    "Name": "護闢獣ヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 209,
+    "Name": "護闢獣メイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 210,
+    "Name": "護闢獣アームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 211,
+    "Name": "護闢獣コイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 212,
+    "Name": "護闢獣グリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": -2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "闢獣の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 213,
+    "Name": "護火竜ヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 2
+      },
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 214,
+    "Name": "護火竜メイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "威嚇",
+        "Level": 2
+      },
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 215,
+    "Name": "護火竜アームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      },
+      {
+        "Name": "威嚇",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 216,
+    "Name": "護火竜コイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 217,
+    "Name": "護火竜グリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "風圧耐性",
+        "Level": 2
+      },
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 218,
+    "Name": "護火竜ヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 219,
+    "Name": "護火竜メイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "威嚇",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 220,
+    "Name": "護火竜アームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 221,
+    "Name": "護火竜コイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 222,
+    "Name": "護火竜グリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -5,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 223,
+    "Name": "グラビドヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 224,
+    "Name": "グラビドメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 2
+      },
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 225,
+    "Name": "グラビドアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 2
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 226,
+    "Name": "グラビドコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 2
+      },
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 227,
+    "Name": "グラビドグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "耐震",
+        "Level": 2
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 228,
+    "Name": "グラビドヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 229,
+    "Name": "グラビドメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 230,
+    "Name": "グラビドアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 231,
+    "Name": "グラビドコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "Name": "グラビドグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 52,
+    "Fire": 4,
+    "Water": -3,
+    "Thunder": 1,
+    "Ice": 0,
+    "Dragon": -2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "鎧竜の守護",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "耐震",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 233,
+    "Name": "護兇爪竜ヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 2
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 234,
+    "Name": "護兇爪竜メイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      },
+      {
+        "Name": "裂傷耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 235,
+    "Name": "護兇爪竜アームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 2
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 236,
+    "Name": "護兇爪竜コイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      },
+      {
+        "Name": "裂傷耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 237,
+    "Name": "護兇爪竜グリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 238,
+    "Name": "護兇爪竜ヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 239,
+    "Name": "護兇爪竜メイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 240,
+    "Name": "護兇爪竜アームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 241,
+    "Name": "護兇爪竜コイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 242,
+    "Name": "護兇爪竜グリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": -2,
+    "Water": -3,
+    "Thunder": -2,
+    "Ice": -2,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "兇爪竜の力",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 243,
+    "Name": "レウスヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 244,
+    "Name": "レウスメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 2
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 245,
+    "Name": "レウスアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "Name": "レウスコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 2
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 247,
+    "Name": "レウスグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      },
+      {
+        "Name": "巧撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 248,
+    "Name": "レウスヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 249,
+    "Name": "レウスメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 250,
+    "Name": "レウスアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 251,
+    "Name": "レウスコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 252,
+    "Name": "レウスグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 3,
+    "Water": 1,
+    "Thunder": -2,
+    "Ice": 1,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "火竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 253,
+    "Name": "シーウーヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 2
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 254,
+    "Name": "シーウーメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 3
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 255,
+    "Name": "シーウーアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 256,
+    "Name": "シーウーコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 2
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 257,
+    "Name": "シーウーグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 258,
+    "Name": "シーウーヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 259,
+    "Name": "シーウーメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 260,
+    "Name": "シーウーアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 261,
+    "Name": "シーウーコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 262,
+    "Name": "シーウーグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": -3,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "暗器蛸の力",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "巧撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 263,
+    "Name": "ドーベルヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 264,
+    "Name": "ドーベルメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "ランナー",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 265,
+    "Name": "ドーベルアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 2
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 266,
+    "Name": "ドーベルコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "ランナー",
+        "Level": 2
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 267,
+    "Name": "ドーベルグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": -2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": -1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "キノコ大好き",
+        "Level": 2
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 268,
+    "Name": "ダマスクヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      },
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 269,
+    "Name": "ダマスクメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 2
+      },
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 270,
+    "Name": "ダマスクアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 1
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 271,
+    "Name": "ダマスクコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 1
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 272,
+    "Name": "ダマスクグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 56,
+    "Fire": 4,
+    "Water": -2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "アイテム使用強化",
+        "Level": 2
+      },
+      {
+        "Name": "広域化",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 273,
+    "Name": "ダハディラヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 274,
+    "Name": "ダハディラメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "拘束耐性",
+        "Level": 2
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 275,
+    "Name": "ダハディラアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 276,
+    "Name": "ダハディラコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "耐震",
+        "Level": 2
+      },
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 277,
+    "Name": "ダハディラグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 278,
+    "Name": "ダハディラヘルムβ",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 279,
+    "Name": "ダハディラメイルβ",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "拘束耐性",
+        "Level": 1
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 280,
+    "Name": "ダハディラアームβ",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 281,
+    "Name": "ダハディラコイルβ",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 282,
+    "Name": "ダハディラグリーヴβ",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "凍峰竜の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 283,
+    "Name": "レダゼルトヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 2
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 284,
+    "Name": "レダゼルトメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 2
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 285,
+    "Name": "レダゼルトアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 2
+      },
+      {
+        "Name": "気絶耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 286,
+    "Name": "レダゼルトコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 2
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 287,
+    "Name": "レダゼルトグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      },
+      {
+        "Name": "渾身",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 288,
+    "Name": "レダゼルトヘルムβ",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 289,
+    "Name": "レダゼルトメイルβ",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 1
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 290,
+    "Name": "レダゼルトアームβ",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 291,
+    "Name": "レダゼルトコイルβ",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 2
+      },
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 292,
+    "Name": "レダゼルトグリーヴβ",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": -2,
+    "Thunder": 4,
+    "Ice": -3,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "煌雷竜の力",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "力の解放",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 293,
+    "Name": "トゥナムルヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 2
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 294,
+    "Name": "トゥナムルメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 2
+      },
+      {
+        "Name": "水場・油泥適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 295,
+    "Name": "トゥナムルアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 2
+      },
+      {
+        "Name": "納刀術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 296,
+    "Name": "トゥナムルコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 2
+      },
+      {
+        "Name": "水場・油泥適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 297,
+    "Name": "トゥナムルグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "整備",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 298,
+    "Name": "トゥナムルヘルムβ",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 1
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 299,
+    "Name": "トゥナムルメイルβ",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 300,
+    "Name": "トゥナムルアームβ",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "納刀術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 301,
+    "Name": "トゥナムルコイルβ",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 302,
+    "Name": "トゥナムルグリーヴβ",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -1,
+    "Water": 4,
+    "Thunder": -3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "波衣竜の守護",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 303,
+    "Name": "エグゾルスヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 304,
+    "Name": "エグゾルスメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 305,
+    "Name": "エグゾルスアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "逆襲",
+        "Level": 2
+      },
+      {
+        "Name": "早食い",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 306,
+    "Name": "エグゾルスコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      },
+      {
+        "Name": "早食い",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 307,
+    "Name": "エグゾルスグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの誇り",
+    "Skills": [
+      {
+        "Name": "風圧耐性",
+        "Level": 2
+      },
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 308,
+    "Name": "エグゾルスヘルムβ",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 309,
+    "Name": "エグゾルスメイルβ",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 310,
+    "Name": "エグゾルスアームβ",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 2
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 311,
+    "Name": "エグゾルスコイルβ",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 312,
+    "Name": "エグゾルスグリーヴβ",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": 5,
+    "Water": -4,
+    "Thunder": 0,
+    "Ice": 1,
+    "Dragon": 0,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "獄焔蛸の反逆",
+    "GroupSkill": "ヌシの憤激",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 1
+      },
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 313,
+    "Name": "ゴアヘルムα",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 314,
+    "Name": "ゴアメイルα",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      },
+      {
+        "Name": "無我の境地",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 315,
+    "Name": "ゴアアームα",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 316,
+    "Name": "ゴアコイルα",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "無我の境地",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 317,
+    "Name": "ゴアグリーヴα",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗張りの技法",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 2
+      },
+      {
+        "Name": "無我の境地",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 318,
+    "Name": "ゴアヘルムβ",
+    "Part": 1,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 319,
+    "Name": "ゴアメイルβ",
+    "Part": 2,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 320,
+    "Name": "ゴアアームβ",
+    "Part": 3,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 321,
+    "Name": "ゴアコイルβ",
+    "Part": 4,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 322,
+    "Name": "ゴアグリーヴβ",
+    "Part": 5,
+    "Rare": 7,
+    "Defence": 60,
+    "Fire": -2,
+    "Water": 3,
+    "Thunder": -1,
+    "Ice": 2,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "黒蝕竜の力",
+    "GroupSkill": "鱗重ねの工夫",
+    "Skills": [
+      {
+        "Name": "無我の境地",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 323,
+    "Name": "シュバルカヘルムα",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "属性吸収",
+        "Level": 2
+      },
+      {
+        "Name": "属性変換",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 324,
+    "Name": "シュバルカメイルα",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "属性吸収",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 325,
+    "Name": "シュバルカアームα",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "属性変換",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 326,
+    "Name": "シュバルカコイルα",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 2
+      },
+      {
+        "Name": "回復速度",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 327,
+    "Name": "シュバルカグリーヴα",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "納刀術",
+        "Level": 2
+      },
+      {
+        "Name": "属性変換",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 328,
+    "Name": "シュバルカヘルムβ",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "属性変換",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 329,
+    "Name": "シュバルカメイルβ",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 330,
+    "Name": "シュバルカアームβ",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "属性変換",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 331,
+    "Name": "シュバルカコイルβ",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 2
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 332,
+    "Name": "シュバルカグリーヴβ",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -3,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "鎖刃竜の飢餓",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "属性変換",
+        "Level": 1
+      },
+      {
+        "Name": "納刀術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 333,
+    "Name": "護鎖刃竜ヘルムα",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "破壊王",
+        "Level": 2
+      },
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 334,
+    "Name": "護鎖刃竜メイルα",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 2
+      },
+      {
+        "Name": "属性やられ耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 335,
+    "Name": "護鎖刃竜アームα",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 2
+      },
+      {
+        "Name": "属性やられ耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 336,
+    "Name": "護鎖刃竜コイルα",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 2
+      },
+      {
+        "Name": "属性吸収",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 337,
+    "Name": "護鎖刃竜グリーヴα",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "属性吸収",
+        "Level": 2
+      },
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 338,
+    "Name": "護鎖刃竜ヘルムβ",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "破壊王",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 339,
+    "Name": "護鎖刃竜メイルβ",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "属性やられ耐性",
+        "Level": 2
+      },
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 340,
+    "Name": "護鎖刃竜アームβ",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 341,
+    "Name": "護鎖刃竜コイルβ",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 342,
+    "Name": "護鎖刃竜グリーヴβ",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 66,
+    "Fire": 2,
+    "Water": 0,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "護鎖刃竜の命脈",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "弱点特効",
+        "Level": 1
+      },
+      {
+        "Name": "属性吸収",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 343,
+    "Name": "クナファヘッドα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      },
+      {
+        "Name": "オトモへの采配",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 344,
+    "Name": "クナファケープα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "満足感",
+        "Level": 2
+      },
+      {
+        "Name": "オトモへの采配",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 345,
+    "Name": "クナファベルトα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 2
+      },
+      {
+        "Name": "オトモへの采配",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 346,
+    "Name": "クナファチャプスα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 4,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      },
+      {
+        "Name": "オトモへの采配",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 347,
+    "Name": "アズズヘッドα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 4,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "渾身",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 348,
+    "Name": "アズズエプロンα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 4,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 349,
+    "Name": "アズズパンツα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 4,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "地質学",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 350,
+    "Name": "スージャの腰帯α",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 4,
+    "Dragon": 1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 351,
+    "Name": "シルドフードα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "植生学",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 352,
+    "Name": "シルドコートα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 4
+      }
+    ]
+  },
+  {
+    "Id": 353,
+    "Name": "デスギアゲヒルα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 354,
+    "Name": "デスギアムスケルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 355,
+    "Name": "デスギアファオストα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 356,
+    "Name": "デスギアナーベルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "威嚇",
+        "Level": 2
+      },
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 357,
+    "Name": "デスギアフェルゼα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 2
+      },
+      {
+        "Name": "逆恨み",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 358,
+    "Name": "パピメルテスタα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 359,
+    "Name": "パピメルペットα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 360,
+    "Name": "パピメルマーノα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 361,
+    "Name": "パピメルアンカα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 362,
+    "Name": "パピメルガンバα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "回避性能",
+        "Level": 1
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 363,
+    "Name": "オウビートテスタα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "睡眠耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 364,
+    "Name": "オウビートペットα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 365,
+    "Name": "オウビートマーノα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 366,
+    "Name": "オウビートアンカα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "麻痺耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 367,
+    "Name": "オウビートガンバα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": -1,
+    "Water": -1,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "火事場力",
+        "Level": 1
+      },
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "毒耐性",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 368,
+    "Name": "ハイメタヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": -1,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "気絶耐性",
+        "Level": 3
+      },
+      {
+        "Name": "破壊王",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 369,
+    "Name": "ハイメタメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": -1,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "防御力DOWN耐性",
+        "Level": 3
+      },
+      {
+        "Name": "破壊王",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 370,
+    "Name": "ハイメタアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": -1,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "爆破やられ耐性",
+        "Level": 3
+      },
+      {
+        "Name": "破壊王",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 371,
+    "Name": "ハイメタコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": -1,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "ボマー",
+        "Level": 3
+      },
+      {
+        "Name": "水場・油泥適応",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 372,
+    "Name": "ハイメタグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": -1,
+    "Thunder": -2,
+    "Ice": 3,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "裂傷耐性",
+        "Level": 3
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 373,
+    "Name": "バトルヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": -1,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "スタミナ急速回復",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 374,
+    "Name": "バトルメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": -1,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "腹減り耐性",
+        "Level": 3
+      },
+      {
+        "Name": "睡眠耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 375,
+    "Name": "バトルアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": -1,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "満足感",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 376,
+    "Name": "バトルコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": -1,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "アイテム使用強化",
+        "Level": 3
+      },
+      {
+        "Name": "拘束耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 377,
+    "Name": "バトルグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": -1,
+    "Thunder": -1,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "ランナー",
+        "Level": 3
+      },
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 378,
+    "Name": "メルホアフロールα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 1,
+    "Thunder": 3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 3
+      },
+      {
+        "Name": "毒耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 379,
+    "Name": "メルホアトロンコα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 1,
+    "Thunder": 3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 380,
+    "Name": "メルホアラーマα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 1,
+    "Thunder": 3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 3
+      },
+      {
+        "Name": "麻痺耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 381,
+    "Name": "メルホアオッハα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 1,
+    "Thunder": 3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "体力回復量UP",
+        "Level": 3
+      },
+      {
+        "Name": "裂傷耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 382,
+    "Name": "メルホアライースα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 1,
+    "Thunder": 3,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "先達の導き",
+    "Skills": [
+      {
+        "Name": "キノコ大好き",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 383,
+    "Name": "ギルドエースピアスα",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 60,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 384,
+    "Name": "ギルドエースメイルα",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 60,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 385,
+    "Name": "ギルドエースアームα",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 60,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 386,
+    "Name": "ギルドエースコイルα",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 60,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 387,
+    "Name": "ギルドエースブーツα",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 60,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      },
+      {
+        "Name": "攻勢",
+        "Level": 1
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 388,
+    "Name": "アーティアヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": 2,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 389,
+    "Name": "アーティアメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": 2,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "環境適応",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 390,
+    "Name": "アーティアアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": 2,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "属性やられ耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 391,
+    "Name": "アーティアコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": 2,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "風圧耐性",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 392,
+    "Name": "アーティアグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 1,
+    "Water": -2,
+    "Thunder": -2,
+    "Ice": 2,
+    "Dragon": 3,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "鎖刃刺撃",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 393,
+    "Name": "ガライーブーツα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 0,
+    "Water": 5,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の柔性",
+    "Skills": [
+      {
+        "Name": "水耐性",
+        "Level": 1
+      },
+      {
+        "Name": "ハンター生活",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 394,
+    "Name": "竜王の隻眼α",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 60,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "逆襲",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 395,
+    "Name": "調査団ヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "渾身",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 396,
+    "Name": "調査団メイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      },
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 397,
+    "Name": "調査団アームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "納刀術",
+        "Level": 2
+      },
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 398,
+    "Name": "調査団コイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "整備",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 399,
+    "Name": "調査団グリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 44,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 400,
+    "Name": "調査隊の耳飾りα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 40,
+    "Fire": 1,
+    "Water": 1,
+    "Thunder": 1,
+    "Ice": 1,
+    "Dragon": 1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "属性やられ耐性",
+        "Level": 1
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 401,
+    "Name": "ハナショウジョウα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -3,
+    "Water": 2,
+    "Thunder": -2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "昆虫標本の達人",
+        "Level": 1
+      },
+      {
+        "Name": "急襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 402,
+    "Name": "ミツネヘルムα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "水場・油泥適応",
+        "Level": 2
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 403,
+    "Name": "ミツネメイルα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 2
+      },
+      {
+        "Name": "体術",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 404,
+    "Name": "ミツネアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 405,
+    "Name": "ミツネコイルα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      },
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 406,
+    "Name": "ミツネグリーヴα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の昂揚",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 2
+      },
+      {
+        "Name": "フルチャージ",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 407,
+    "Name": "ミツネヘルムβ",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "水場・油泥適応",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 408,
+    "Name": "ミツネメイルβ",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 1
+      },
+      {
+        "Name": "連撃",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 409,
+    "Name": "ミツネアームβ",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "回避性能",
+        "Level": 2
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 410,
+    "Name": "ミツネコイルβ",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "体術",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 411,
+    "Name": "ミツネグリーヴβ",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 2,
+    "Thunder": -3,
+    "Ice": 1,
+    "Dragon": -1,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "泡狐竜の力",
+    "GroupSkill": "毛皮の誘惑",
+    "Skills": [
+      {
+        "Name": "連撃",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 412,
+    "Name": "無垢ナル龍冠α",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "回復速度",
+        "Level": 2
+      },
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 413,
+    "Name": "無垢ナル龍鎧α",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "逆襲",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 414,
+    "Name": "無垢ナル龍甲α",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "属性吸収",
+        "Level": 2
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 415,
+    "Name": "無垢ナル龍帯α",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 416,
+    "Name": "無垢ナル龍靴α",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の脈動",
+    "Skills": [
+      {
+        "Name": "逆襲",
+        "Level": 2
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      },
+      {
+        "Name": "属性吸収",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 417,
+    "Name": "無垢ナル龍冠β",
+    "Part": 1,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 1,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 418,
+    "Name": "無垢ナル龍鎧β",
+    "Part": 2,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 419,
+    "Name": "無垢ナル龍甲β",
+    "Part": 3,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "属性吸収",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 420,
+    "Name": "無垢ナル龍帯β",
+    "Part": 4,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "挑戦者",
+        "Level": 2
+      },
+      {
+        "Name": "災禍転福",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 421,
+    "Name": "無垢ナル龍靴β",
+    "Part": 5,
+    "Rare": 8,
+    "Defence": 68,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 0,
+    "Dragon": -4,
+    "Slot1": 3,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "白熾龍の脈動",
+    "GroupSkill": "護竜の守り",
+    "Skills": [
+      {
+        "Name": "逆襲",
+        "Level": 1
+      },
+      {
+        "Name": "回復速度",
+        "Level": 1
+      },
+      {
+        "Name": "属性吸収",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 422,
+    "Name": "ギルドクロスアクセα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "拘束耐性",
+        "Level": 2
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      },
+      {
+        "Name": "ひるみ軽減",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 423,
+    "Name": "ギルドクロススーツα",
+    "Part": 2,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "耳栓",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 424,
+    "Name": "ギルドクロスアームα",
+    "Part": 3,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "ひるみ軽減",
+        "Level": 2
+      },
+      {
+        "Name": "拘束耐性",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 425,
+    "Name": "ギルドクロスコイルα",
+    "Part": 4,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "風圧耐性",
+        "Level": 2
+      },
+      {
+        "Name": "耳栓",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 426,
+    "Name": "ギルドクロスブーツα",
+    "Part": 5,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "風圧耐性",
+        "Level": 1
+      },
+      {
+        "Name": "耐震",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 427,
+    "Name": "健啖家の耳飾りα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "早食い",
+        "Level": 2
+      },
+      {
+        "Name": "満足感",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 428,
+    "Name": "スクエアグラスα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "植生学",
+        "Level": 4
+      },
+      {
+        "Name": "ハンター生活",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 429,
+    "Name": "知略の眼鏡α",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 1,
+    "SeriesSkill": "",
+    "GroupSkill": "",
+    "Skills": [
+      {
+        "Name": "地質学",
+        "Level": 3
+      }
+    ]
+  },
+  {
+    "Id": 430,
+    "Name": "クリークバイザーα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "オトモへの采配",
+        "Level": 2
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 2
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 431,
+    "Name": "クリークスーツα",
+    "Part": 2,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "環境利用の知識",
+        "Level": 2
+      },
+      {
+        "Name": "精霊の加護",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 432,
+    "Name": "クリークアームα",
+    "Part": 3,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 1,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 2
+      },
+      {
+        "Name": "オトモへの采配",
+        "Level": 1
+      },
+      {
+        "Name": "環境利用の知識",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 433,
+    "Name": "クリークベルトα",
+    "Part": 4,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 1,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "整備",
+        "Level": 2
+      },
+      {
+        "Name": "体力回復量UP",
+        "Level": 2
+      }
+    ]
+  },
+  {
+    "Id": 434,
+    "Name": "クリークシューズα",
+    "Part": 5,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 2,
+    "Water": 2,
+    "Thunder": 2,
+    "Ice": 2,
+    "Dragon": 2,
+    "Slot1": 2,
+    "Slot2": 2,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "オトモへの采配",
+        "Level": 2
+      },
+      {
+        "Name": "整備",
+        "Level": 1
+      }
+    ]
+  },
+  {
+    "Id": 435,
+    "Name": "献身のピアスα",
+    "Part": 1,
+    "Rare": 6,
+    "Defence": 48,
+    "Fire": 0,
+    "Water": 0,
+    "Thunder": 0,
+    "Ice": 0,
+    "Dragon": 0,
+    "Slot1": 2,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "栄光の誉れ",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 4
+      }
+    ]
+  },
+  {
+    "Id": 436,
+    "Name": "アワウタイズクα",
+    "Part": 1,
+    "Rare": 5,
+    "Defence": 36,
+    "Fire": -2,
+    "Water": 2,
+    "Thunder": 1,
+    "Ice": -2,
+    "Dragon": 3,
+    "Slot1": 0,
+    "Slot2": 0,
+    "Slot3": 0,
+    "SeriesSkill": "",
+    "GroupSkill": "革細工の滑性",
+    "Skills": [
+      {
+        "Name": "広域化",
+        "Level": 2
+      },
+      {
+        "Name": "回避距離UP",
+        "Level": 1
+      }
+    ]
+  }
+]

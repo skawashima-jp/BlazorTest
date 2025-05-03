@@ -1,0 +1,248 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>入力</th>
+            <th>カナ</th>
+            <th>前回</th>
+            <th>今回</th>
+            <th>差分</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>IME</th>
+            <th>1or2</th>
+            <th>Composition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><input id="inputField" /></td>
+            <td><input @bind="ConvertedText"  /></td>
+            <td><input @bind="SaveLastInputText" readonly /></td>
+            <td><input @bind="CurrentText" readonly /></td>
+            <td><input @bind="DiffText" readonly /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input @bind="Composing" readonly /></td>
+            <td><input @bind="NowExecuting" readonly /></td>
+            <td><input @bind="Composition" readonly /></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    [Inject]
+    private IJSRuntime JS { get; set; } = default!;
+    private string InputText { get; set; } = string.Empty;
+    private string ConvertedText { get; set; } = string.Empty;
+    private string CurrentText { get; set; } = string.Empty;
+    private string DiffText { get; set; } = string.Empty;
+    private string SaveLastInputText { get; set; } = string.Empty;
+    private string Composing { get; set; } = string.Empty;
+    private string NowExecuting { get; set; } = string.Empty;
+    private string Composition { get; set; } = string.Empty;
+
+    private string LastInputText { get; set; } = string.Empty; // ★前回の入力を覚えておく
+
+    [JSInvokable]
+    public void CompositionStart()
+    {
+        Composition = "start";
+        InvokeAsync(StateHasChanged);
+    }
+
+    [JSInvokable]
+    public void CompositionEnd()
+    {
+        Composition = "end";
+        LastInputText = string.Empty;
+        InvokeAsync(StateHasChanged);
+    }
+
+    [JSInvokable]
+    public void UpdateKana(string text, bool composing)
+    {
+        Composing = composing.ToString();
+        NowExecuting = "1";
+        CurrentText = text;
+        SaveLastInputText = LastInputText;
+        if (text == null) text = string.Empty;
+
+        // 差分を取り出す
+        string diff = GetDiff(LastInputText, text);
+        DiffText = diff;
+        string tempConvertedText = ConvertToHankakuKana(diff);
+        // if (string.IsNullOrEmpty(tempConvertedText))
+        // {
+        //     return;
+        // }
+        ConvertedText += tempConvertedText;
+
+        LastInputText = text; // ★必ず更新！
+
+        InvokeAsync(StateHasChanged);
+    }
+
+    [JSInvokable]
+    public void UpdateKana2(string text, bool composing)
+    {
+        Composing = composing.ToString();
+        NowExecuting = "2";
+        CurrentText = text;
+        SaveLastInputText = LastInputText;
+        if (text == null) text = string.Empty;
+
+        // 差分を取り出す
+        string diff = GetDiff(LastInputText, text);
+        DiffText = diff;
+        string tempConvertedText = ConvertToHankakuKana(diff);
+        // if (string.IsNullOrEmpty(tempConvertedText))
+        // {
+        //     return;
+        // }
+        ConvertedText += tempConvertedText;
+
+        LastInputText = text; // ★必ず更新！
+
+        InvokeAsync(StateHasChanged);
+    }
+
+    private string GetDiff(string oldText, string newText)
+    {
+        if (newText.StartsWith(oldText))
+        {
+            // oldTextの後に追加された部分だけ取る
+            return newText.Substring(oldText.Length);
+        }
+        else if (string.IsNullOrEmpty(oldText) || oldText.Length < 1)
+        {
+            // それ以外（全消しされた、編集された等）は全体扱い
+            return newText;
+        }
+        else if (newText.StartsWith(oldText.Substring(0,oldText.Length - 1)))
+        {
+            return newText.Substring(oldText.Length - 1);
+        }
+        return newText;
+    }
+
+    private string ConvertToHankakuKana(string input)
+    {
+        if (string.IsNullOrEmpty(input))
+            return string.Empty;
+
+        // まず、ひらがなをカタカナに変換する
+        var katakana = ToKatakana(input);
+
+        // 次に、カタカナを半角カナに変換する
+        var fullToHalf = new Dictionary<char, char>
+    {
+        {'ア', 'ｱ'}, {'イ', 'ｲ'}, {'ウ', 'ｳ'}, {'エ', 'ｴ'}, {'オ', 'ｵ'},
+        {'カ', 'ｶ'}, {'キ', 'ｷ'}, {'ク', 'ｸ'}, {'ケ', 'ｹ'}, {'コ', 'ｺ'},
+        {'サ', 'ｻ'}, {'シ', 'ｼ'}, {'ス', 'ｽ'}, {'セ', 'ｾ'}, {'ソ', 'ｿ'},
+        {'タ', 'ﾀ'}, {'チ', 'ﾁ'}, {'ツ', 'ﾂ'}, {'テ', 'ﾃ'}, {'ト', 'ﾄ'},
+        {'ナ', 'ﾅ'}, {'ニ', 'ﾆ'}, {'ヌ', 'ﾇ'}, {'ネ', 'ﾈ'}, {'ノ', 'ﾉ'},
+        {'ハ', 'ﾊ'}, {'ヒ', 'ﾋ'}, {'フ', 'ﾌ'}, {'ヘ', 'ﾍ'}, {'ホ', 'ﾎ'},
+        {'マ', 'ﾏ'}, {'ミ', 'ﾐ'}, {'ム', 'ﾑ'}, {'メ', 'ﾒ'}, {'モ', 'ﾓ'},
+        {'ヤ', 'ﾔ'}, {'ユ', 'ﾕ'}, {'ヨ', 'ﾖ'},
+        {'ラ', 'ﾗ'}, {'リ', 'ﾘ'}, {'ル', 'ﾙ'}, {'レ', 'ﾚ'}, {'ロ', 'ﾛ'},
+        {'ワ', 'ﾜ'}, {'ヲ', 'ｦ'}, {'ン', 'ﾝ'},
+        {'ァ', 'ｧ'}, {'ィ', 'ｨ'}, {'ゥ', 'ｩ'}, {'ェ', 'ｪ'}, {'ォ', 'ｫ'},
+        {'ャ', 'ｬ'}, {'ュ', 'ｭ'}, {'ョ', 'ｮ'},
+        {'ッ', 'ｯ'},
+        {'ー', 'ｰ'},
+        {'。', '｡'}, {'、', '､'}, {'・', '･'}, {'「', '｢'}, {'」', '｣'}
+    };
+        var harf = new List<char>
+    {
+        {'ｱ'}, {'ｲ'}, {'ｳ'}, {'ｴ'}, {'ｵ'},
+        {'ｶ'}, {'ｷ'}, {'ｸ'}, {'ｹ'}, {'ｺ'},
+        {'ｻ'}, {'ｼ'}, {'ｽ'}, {'ｾ'}, {'ｿ'},
+        {'ﾀ'}, {'ﾁ'}, {'ﾂ'}, {'ﾃ'}, {'ﾄ'},
+        {'ﾅ'}, {'ﾆ'}, {'ﾇ'}, {'ﾈ'}, {'ﾉ'},
+        {'ﾊ'}, {'ﾋ'}, {'ﾌ'}, {'ﾍ'}, {'ﾎ'},
+        {'ﾏ'}, {'ﾐ'}, {'ﾑ'}, {'ﾒ'}, {'ﾓ'},
+        {'ﾔ'}, {'ﾕ'}, {'ﾖ'},
+        {'ﾗ'}, {'ﾘ'}, {'ﾙ'}, {'ﾚ'}, {'ﾛ'},
+        {'ﾜ'}, {'ｦ'}, {'ﾝ'},
+        {'ｧ'}, {'ｨ'}, {'ｩ'}, {'ｪ'}, {'ｫ'},
+        {'ｬ'}, {'ｭ'}, {'ｮ'},
+        {'ｯ'},
+        {'ｰ'},
+        {'｡'}, {'､'}, {'･'}, {'｢'}, {'｣'}
+    };
+
+        var output = new List<char>();
+
+        foreach (var c in katakana)
+        {
+            if (fullToHalf.TryGetValue(c, out var half))
+            {
+                output.Add(half);
+            }
+            else if (IsHankaku(c))
+            {
+                output.Add(c);
+            }
+        }
+
+        return new string(output.ToArray());
+    }
+
+    // ★追加
+    private string ToKatakana(string input)
+    {
+        var sb = new System.Text.StringBuilder();
+
+        foreach (char c in input)
+        {
+            // ひらがな（U+3040〜U+309F）をカタカナ（U+30A0〜U+30FF）に変換
+            if (c >= 'ぁ' && c <= 'ん')
+            {
+                sb.Append((char)(c + 0x60));
+            }
+            else
+            {
+                sb.Append(c);
+            }
+        }
+
+        return sb.ToString();
+    }
+
+    private bool IsHankaku(char c)
+    {
+        return (c >= '\u0020' && c <= '\u007E'); // 半角の基本ラテン文字 (スペース含む)
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("registerCompositionListener", DotNetObjectReference.Create(this));
+        }
+    }
+}
