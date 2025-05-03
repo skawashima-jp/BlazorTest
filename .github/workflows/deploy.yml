@@ -5,6 +5,9 @@ on:
     branches:
       - master  # ← master ブランチに push されたら実行
 
+permissions:
+  contents: write  # ★これを追加！
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
