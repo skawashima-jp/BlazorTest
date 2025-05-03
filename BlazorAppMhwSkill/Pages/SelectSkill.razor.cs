@@ -10,6 +10,7 @@ namespace BlazorAppMhwSkill.Pages
 {
     public partial class SelectSkill : ComponentBase
     {
+    //
         [Inject]
         private IJSRuntime JS { get; set; } = default!;
 
