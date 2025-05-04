@@ -47,7 +47,7 @@ namespace BlazorAppMhwSkill.Models
 
         public static string GetHeader()
         {
-            return "頭\t体\t腕\t胴\t足\t追加スキル\t護石\t余りスキル\t3スロ余\t2スロ余\t1スロ余\t火\t水\t雷\t氷\t龍";
+            return "頭\t体\t腕\t胴\t足\t追加スキル\t護石\t余りスキル\t3スロ余\t2スロ余\t1スロ余\t火\t水\t雷\t氷\t龍\tグループスキル";
         }
 
         public string GetRow()

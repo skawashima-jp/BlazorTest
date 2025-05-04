@@ -9,6 +9,10 @@
 else
 {
     <div class="container container-m">
+        <div>保存しておいた検索条件を取り込む<InputFile OnChange="ReadSearchCond" /></div>
+        <br />
+        <button class="btn btn-primary" @onclick="SaveSearchCond">検索条件保存</button>
+        <br />
         <div class="row">
             <div class="col-md-2">
                 <p>シリーズスキルの数</p>
@@ -122,9 +126,10 @@ else
     <table class="table table-bordered">
         <thead>
             <tr>
-                <th>スキル</th>
-                <th>レベル</th>
-                <th>操作</th>
+                <th class="col-3">スキル</th>
+                <th class="col-1">レベル</th>
+                <th class="col-1">操作</th>
+                <th class="col-7"></th>
             </tr>
         </thead>
         <tbody>
@@ -148,6 +153,7 @@ else
                     <td>
                         <button class="btn btn-danger" @onclick="() => RemoveItem(condSkill)">削除</button>
                     </td>
+                    <td></td>
                 </tr>
             }
         </tbody>

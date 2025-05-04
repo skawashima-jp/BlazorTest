@@ -5,6 +5,9 @@ using System.Text;
 using Microsoft.JSInterop;
 using BlazorAppMhwSkill.Logic;
 using System.Net.Sockets;
+using Microsoft.AspNetCore.Components.Forms;
+using System.Text.Json;
+using System.Text.Unicode;
 
 namespace BlazorAppMhwSkill.Pages
 {
@@ -34,7 +37,7 @@ namespace BlazorAppMhwSkill.Pages
 
         private List<SkillSearchResult> skillSearchResults = new List<SkillSearchResult>();
 
-        private string searchCond = string.Empty;
+        private string searchCondStr = string.Empty;
 
         // シリーズスキル数　ラジオボタン用
         private string? selectedSeriesSkillCount = "1";
@@ -191,7 +194,7 @@ namespace BlazorAppMhwSkill.Pages
 
             serchCondString.AppendLine($"【耐性】火：{requiredFire}、水：{requiredWater}、雷：{requiredThunder}、氷：{requiredIce}、龍：{requiredDragon}");
             serchCondString.AppendLine("●検索結果");
-            this.searchCond = serchCondString.ToString();
+            this.searchCondStr = serchCondString.ToString();
 
             //bool isSelect2SeriesSkill = checkedSeriesSkillCount2;
 
@@ -221,7 +224,10 @@ namespace BlazorAppMhwSkill.Pages
                     List<string> bodyUsedSkills = new List<string>(usedSeriesSkills);
                     List<string> bodyAllowSeriesSkills = new List<string>(allowSeriesSkills);
 
-                    bodyUsedSkills.Add(body.SeriesSkill);
+                    //if (!bodyUsedSkills.Contains(body.SeriesSkill))
+                    //{
+                        bodyUsedSkills.Add(body.SeriesSkill);
+                    //}
 
                     // あと１種の場合はこれ以上絞らない
                     if (bodyAllowSeriesSkills.Count == 1)
@@ -255,19 +261,19 @@ namespace BlazorAppMhwSkill.Pages
                                 bodyAllowSeriesSkills.Add(this.selectedSeriesSkill2);
                                 useSonota = true;
                             }
-                            // 体と頭で同じシリーズスキルを選んだ場合、そのスキルはもう使えない
-                            else if (body.SeriesSkill == head.SeriesSkill)
-                            {
-                                if (body.SeriesSkill == this.selectedSeriesSkill)
-                                {
-                                    bodyAllowSeriesSkills.Add(this.selectedSeriesSkill2);
-                                }
-                                else
-                                {
-                                    bodyAllowSeriesSkills.Add(this.selectedSeriesSkill);
-                                }
+                            //// 体と頭で同じシリーズスキルを選んだ場合、まだその他のスキルを選べる
+                            //else if (body.SeriesSkill == head.SeriesSkill)
+                            //{
+                            //    if (body.SeriesSkill == this.selectedSeriesSkill)
+                            //    {
+                            //        bodyAllowSeriesSkills.Add(this.selectedSeriesSkill2);
+                            //    }
+                            //    else
+                            //    {
+                            //        bodyAllowSeriesSkills.Add(this.selectedSeriesSkill);
+                            //    }
 
-                            }
+                            //}
 
                         }
 
@@ -278,7 +284,10 @@ namespace BlazorAppMhwSkill.Pages
                         List<string> armUsedSkills = new List<string>(bodyUsedSkills);
                         List<string> armAllowSeriesSkills = new List<string>(bodyAllowSeriesSkills);
 
-                        armUsedSkills.Add(arm.SeriesSkill);
+                        //if (!armUsedSkills.Contains(arm.SeriesSkill))
+                        //{
+                            armUsedSkills.Add(arm.SeriesSkill);
+                        //}
 
                         // あと１種の場合はこれ以上絞らない
                         if (armAllowSeriesSkills.Count == 1)
@@ -313,6 +322,7 @@ namespace BlazorAppMhwSkill.Pages
                                 // 腕がどっちとも違う場合
                                 if (arm.SeriesSkill != this.selectedSeriesSkill && arm.SeriesSkill != this.selectedSeriesSkill2)
                                 {
+                                    useSonota = true;
                                     // シリーズスキル１が既に２回使われている場合、シリーズ２のみ許可
                                     if (armUsedSkills.Where(r => r == selectedSeriesSkill).Count() >= 2)
                                     {
@@ -330,7 +340,6 @@ namespace BlazorAppMhwSkill.Pages
                                         armAllowSeriesSkills.Add(this.selectedSeriesSkill2);
                                     }
 
-                                    useSonota = true;
                                 }
                                 // シリーズ１が３回の場合はシリーズ２のみ許可
                                 else if (armUsedSkills.Where(r => r == selectedSeriesSkill).Count() >= 3)
@@ -352,7 +361,12 @@ namespace BlazorAppMhwSkill.Pages
                         {
                             List<string> weistUsedSeriesSkill = new List<string>(armUsedSkills);
                             List<string> weistAllowSeriesSkills = new List<string>(armAllowSeriesSkills);
-                            weistUsedSeriesSkill.Add(weist.SeriesSkill);
+
+
+                            //if (!weistUsedSeriesSkill.Contains(weist.SeriesSkill))
+                            //{
+                                weistUsedSeriesSkill.Add(weist.SeriesSkill);
+                            //}
 
                             // あと１種の場合はこれ以上絞らない
                             if (weistAllowSeriesSkills.Count == 1)
@@ -533,23 +547,44 @@ namespace BlazorAppMhwSkill.Pages
                                     }
                                 }
 
-                                int slot3 = head.Slot3
-                                    + body.Slot3
-                                    + arm.Slot3
-                                    + weist.Slot3
-                                    + foot.Slot3;
+                                List<int> slots = new List<int>();
+                                slots.Add(head.Slot1);
+                                slots.Add(head.Slot2);
+                                slots.Add(head.Slot3);
+                                slots.Add(body.Slot1);
+                                slots.Add(body.Slot2);
+                                slots.Add(body.Slot3);
+                                slots.Add(arm.Slot1);
+                                slots.Add(arm.Slot2);
+                                slots.Add(arm.Slot3);
+                                slots.Add(weist.Slot1);
+                                slots.Add(weist.Slot2);
+                                slots.Add(weist.Slot3);
+                                slots.Add(foot.Slot1);
+                                slots.Add(foot.Slot2);
+                                slots.Add(foot.Slot3);
 
-                                int slot2 = head.Slot2
-                                    + body.Slot2
-                                    + arm.Slot2
-                                    + weist.Slot2
-                                    + foot.Slot2;
+                                int slot3 = slots.Count(r => r == 3);
+                                int slot2 = slots.Count(r => r == 2);
+                                int slot1 = slots.Count(r => r == 1);
 
-                                int slot1 = head.Slot1
-                                    + body.Slot1
-                                    + arm.Slot1
-                                    + weist.Slot1
-                                    + foot.Slot1;
+                                //int slot3 = head.Slot3
+                                //    + body.Slot3
+                                //    + arm.Slot3
+                                //    + weist.Slot3
+                                //    + foot.Slot3;
+
+                                //int slot2 = head.Slot2
+                                //    + body.Slot2
+                                //    + arm.Slot2
+                                //    + weist.Slot2
+                                //    + foot.Slot2;
+
+                                //int slot1 = head.Slot1
+                                //    + body.Slot1
+                                //    + arm.Slot1
+                                //    + weist.Slot1
+                                //    + foot.Slot1;
 
                                 List<CondSkill> addSkills = new List<CondSkill>();
                                 // 条件に設定したスキルが全部達成できるか調べる
@@ -827,6 +862,77 @@ namespace BlazorAppMhwSkill.Pages
 
             InvokeAsync(StateHasChanged);
         }
+
+
+        private string fileContent = string.Empty;
+
+        private async Task ReadSearchCond(InputFileChangeEventArgs e)
+        {
+            IBrowserFile file = e.File;
+            using var reader = new StreamReader(file.OpenReadStream(maxAllowedSize: 1024 * 1024));
+            fileContent = await reader.ReadToEndAsync();
+            JsonSerializerOptions options = new JsonSerializerOptions
+            {
+                Encoder = System.Text.Encodings.Web.JavaScriptEncoder.Create(UnicodeRanges.All),
+                WriteIndented = true
+            };
+            SkillSearchCond? searchCond = JsonSerializer.Deserialize<SkillSearchCond>(fileContent, options);
+            if (searchCond == null)
+            {
+                return;
+            }
+
+            checkedSeriesSkillCount1 = !searchCond.CheckedSeriesSkillCount2;
+            checkedSeriesSkillCount2 = searchCond.CheckedSeriesSkillCount2;
+            if (searchCond.CheckedSeriesSkillCount2)
+            {
+                selectedSeriesSkillCount = "2";
+            }
+            else
+            {
+                selectedSeriesSkillCount = "1";
+            }
+            selectedSeriesSkill = searchCond.SelectedSeriesSkill;
+            selectedSeriesSkill2 = searchCond.SelectedSeriesSkill2;
+            selectedGroupSkill = searchCond.SelectedGroupSkill;
+            condSkills = searchCond.CondSkills;
+            requiredFire = searchCond.RequiredFire;
+            requiredWater = searchCond.RequiredWater;
+            requiredThunder = searchCond.RequiredThunder;
+            requiredIce = searchCond.RequiredIce;
+            requiredDragon = searchCond.RequiredDragon;
+
+            await InvokeAsync(StateHasChanged);
+        }
+
+        private async Task SaveSearchCond()
+        {
+            SkillSearchCond searchCond = new SkillSearchCond();
+
+            searchCond.CheckedSeriesSkillCount2 = checkedSeriesSkillCount2;
+            searchCond.SelectedSeriesSkill = selectedSeriesSkill;
+            searchCond.SelectedSeriesSkill2 = selectedSeriesSkill2;
+            searchCond.SelectedGroupSkill = selectedGroupSkill;
+            searchCond.CondSkills = condSkills;
+            searchCond.RequiredFire = requiredFire;
+            searchCond.RequiredWater = requiredWater;
+            searchCond.RequiredThunder = requiredThunder;
+            searchCond.RequiredIce = requiredIce;
+            searchCond.RequiredDragon = requiredDragon;
+
+
+            Download d = new Download();
+            JsonSerializerOptions options = new JsonSerializerOptions
+            {
+                Encoder = System.Text.Encodings.Web.JavaScriptEncoder.Create(UnicodeRanges.All),
+                WriteIndented = true
+            };
+            await d.Execute(JsonSerializer.Serialize(searchCond, options), "検索条件.csv", JS);
+
+            
+
+        }
+
         /// <summary>
         /// CSVダウンロード
         /// </summary>
@@ -840,7 +946,7 @@ namespace BlazorAppMhwSkill.Pages
             else
             {
                 Download d = new Download();
-                await d.Execute<SkillSearchResult>(skillSearchResults.ToArray(), searchCond, JS);
+                await d.Execute<SkillSearchResult>(skillSearchResults.ToArray(), searchCondStr, JS);
             }
         }
 
