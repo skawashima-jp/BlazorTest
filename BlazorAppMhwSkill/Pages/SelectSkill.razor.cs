@@ -592,7 +592,7 @@ namespace BlazorAppMhwSkill.Pages
                                 bool isNg = false;
                                 bool useGoseki = false;
                                 string usedGoseki = string.Empty;
-                                foreach (var needsSkill in condSkills.OrderByDescending(r=>r.Slot))
+                                foreach (var needsSkill in condSkills.OrderByDescending(r=>r.Slot).ThenBy(r => r.SkillLevel))
                                 {
                                     int needsLevel = needsSkill.SkillLevel;
 
@@ -653,11 +653,14 @@ namespace BlazorAppMhwSkill.Pages
                                         // スロットの空きが足りない場合
                                         if (needsLevel > slot2)
                                         {
-                                            addSkills.Add(new CondSkill()
+                                            if (slot2 > 0)
                                             {
-                                                SkillName = needsSkill.SkillName,
-                                                SkillLevel = slot2
-                                            });
+                                                addSkills.Add(new CondSkill()
+                                                {
+                                                    SkillName = needsSkill.SkillName,
+                                                    SkillLevel = slot2
+                                                });
+                                            }
                                             // 必要レベルを減らして続行
                                             needsLevel -= slot2;
                                             slot2 = 0;
@@ -679,11 +682,14 @@ namespace BlazorAppMhwSkill.Pages
                                         // スロットの空きが足りない場合
                                         if (needsLevel > slot3)
                                         {
-                                            addSkills.Add(new CondSkill()
+                                            if (slot3 > 0)
                                             {
-                                                SkillName = needsSkill.SkillName,
-                                                SkillLevel = slot3
-                                            });
+                                                addSkills.Add(new CondSkill()
+                                                {
+                                                    SkillName = needsSkill.SkillName,
+                                                    SkillLevel = slot3
+                                                });
+                                            }
                                             // 必要レベルを減らして続行
                                             needsLevel -= slot3;
                                             slot3 = 0;
@@ -707,11 +713,14 @@ namespace BlazorAppMhwSkill.Pages
                                         // スロットの空きが足りない場合
                                         if (needsLevel > slot1)
                                         {
-                                            addSkills.Add(new CondSkill()
+                                            if (slot1 > 0)
                                             {
-                                                SkillName = needsSkill.SkillName,
-                                                SkillLevel = slot1
-                                            });
+                                                addSkills.Add(new CondSkill()
+                                                {
+                                                    SkillName = needsSkill.SkillName,
+                                                    SkillLevel = slot1
+                                                });
+                                            }
                                             // 必要レベルを減らして続行
                                             needsLevel -= slot1;
                                             slot1 = 0;
@@ -733,11 +742,14 @@ namespace BlazorAppMhwSkill.Pages
                                         // スロットの空きが足りない場合
                                         if (needsLevel > slot2)
                                         {
-                                            addSkills.Add(new CondSkill()
+                                            if (slot2 > 0)
                                             {
-                                                SkillName = needsSkill.SkillName,
-                                                SkillLevel = slot2
-                                            });
+                                                addSkills.Add(new CondSkill()
+                                                {
+                                                    SkillName = needsSkill.SkillName,
+                                                    SkillLevel = slot2
+                                                });
+                                            }
                                             // 必要レベルを減らして続行
                                             needsLevel -= slot2;
                                             slot2 = 0;
@@ -759,11 +771,14 @@ namespace BlazorAppMhwSkill.Pages
                                         // スロットの空きが足りない場合
                                         if (needsLevel > slot3)
                                         {
-                                            addSkills.Add(new CondSkill()
+                                            if (slot3 > 0)
                                             {
-                                                SkillName = needsSkill.SkillName,
-                                                SkillLevel = slot3
-                                            });
+                                                addSkills.Add(new CondSkill()
+                                                {
+                                                    SkillName = needsSkill.SkillName,
+                                                    SkillLevel = slot3
+                                                });
+                                            }
                                             // 必要レベルを減らして続行
                                             needsLevel -= slot3;
                                             slot3 = 0;
