@@ -628,7 +628,8 @@ namespace BlazorAppMhwSkill.Pages
                                                 addSkills.Add(new CondSkill()
                                                 {
                                                     SkillName = needsSkill.SkillName,
-                                                    SkillLevel = slot3
+                                                    SkillLevel = slot3,
+                                                    Slot = needsSkill.Slot
                                                 });
                                             }
                                             // 必要レベルを減らして続行
@@ -641,7 +642,8 @@ namespace BlazorAppMhwSkill.Pages
                                             addSkills.Add(new CondSkill()
                                             {
                                                 SkillName = needsSkill.SkillName,
-                                                SkillLevel = needsLevel
+                                                SkillLevel = needsLevel,
+                                                Slot = needsSkill.Slot
                                             });
                                             // 使用可能スロットを減らして達成。次のスキルへ
                                             slot3 -= needsLevel;
@@ -658,7 +660,8 @@ namespace BlazorAppMhwSkill.Pages
                                                 addSkills.Add(new CondSkill()
                                                 {
                                                     SkillName = needsSkill.SkillName,
-                                                    SkillLevel = slot2
+                                                    SkillLevel = slot2,
+                                                    Slot = needsSkill.Slot
                                                 });
                                             }
                                             // 必要レベルを減らして続行
@@ -671,7 +674,8 @@ namespace BlazorAppMhwSkill.Pages
                                             addSkills.Add(new CondSkill()
                                             {
                                                 SkillName = needsSkill.SkillName,
-                                                SkillLevel = needsLevel
+                                                SkillLevel = needsLevel,
+                                                Slot = needsSkill.Slot
                                             });
                                             // 使用可能スロットを減らして達成。次のスキルへ
                                             slot2 -= needsLevel;
@@ -687,7 +691,8 @@ namespace BlazorAppMhwSkill.Pages
                                                 addSkills.Add(new CondSkill()
                                                 {
                                                     SkillName = needsSkill.SkillName,
-                                                    SkillLevel = slot3
+                                                    SkillLevel = slot3,
+                                                    Slot = needsSkill.Slot
                                                 });
                                             }
                                             // 必要レベルを減らして続行
@@ -700,7 +705,8 @@ namespace BlazorAppMhwSkill.Pages
                                             addSkills.Add(new CondSkill()
                                             {
                                                 SkillName = needsSkill.SkillName,
-                                                SkillLevel = needsLevel
+                                                SkillLevel = needsLevel,
+                                                Slot = needsSkill.Slot
                                             });
                                             // 使用可能スロットを減らして達成。次のスキルへ
                                             slot3 -= needsLevel;
@@ -718,7 +724,8 @@ namespace BlazorAppMhwSkill.Pages
                                                 addSkills.Add(new CondSkill()
                                                 {
                                                     SkillName = needsSkill.SkillName,
-                                                    SkillLevel = slot1
+                                                    SkillLevel = slot1,
+                                                    Slot = needsSkill.Slot
                                                 });
                                             }
                                             // 必要レベルを減らして続行
@@ -731,7 +738,8 @@ namespace BlazorAppMhwSkill.Pages
                                             addSkills.Add(new CondSkill()
                                             {
                                                 SkillName = needsSkill.SkillName,
-                                                SkillLevel = needsLevel
+                                                SkillLevel = needsLevel,
+                                                Slot = needsSkill.Slot
                                             });
                                             // 使用可能スロットを減らして達成。次のスキルへ
                                             slot1 -= needsLevel;
@@ -747,7 +755,8 @@ namespace BlazorAppMhwSkill.Pages
                                                 addSkills.Add(new CondSkill()
                                                 {
                                                     SkillName = needsSkill.SkillName,
-                                                    SkillLevel = slot2
+                                                    SkillLevel = slot2,
+                                                    Slot = needsSkill.Slot
                                                 });
                                             }
                                             // 必要レベルを減らして続行
@@ -760,7 +769,8 @@ namespace BlazorAppMhwSkill.Pages
                                             addSkills.Add(new CondSkill()
                                             {
                                                 SkillName = needsSkill.SkillName,
-                                                SkillLevel = needsLevel
+                                                SkillLevel = needsLevel,
+                                                Slot = needsSkill.Slot
                                             });
                                             // 使用可能スロットを減らして達成。次のスキルへ
                                             slot2 -= needsLevel;
@@ -776,7 +786,8 @@ namespace BlazorAppMhwSkill.Pages
                                                 addSkills.Add(new CondSkill()
                                                 {
                                                     SkillName = needsSkill.SkillName,
-                                                    SkillLevel = slot3
+                                                    SkillLevel = slot3,
+                                                    Slot = needsSkill.Slot
                                                 });
                                             }
                                             // 必要レベルを減らして続行
@@ -789,7 +800,8 @@ namespace BlazorAppMhwSkill.Pages
                                             addSkills.Add(new CondSkill()
                                             {
                                                 SkillName = needsSkill.SkillName,
-                                                SkillLevel = needsLevel
+                                                SkillLevel = needsLevel,
+                                                Slot = needsSkill.Slot
                                             });
                                             // 使用可能スロットを減らして達成。次のスキルへ
                                             slot3 -= needsLevel;
@@ -805,9 +817,52 @@ namespace BlazorAppMhwSkill.Pages
                                     }
 
                                     // 護石でできるか調べる
-                                    var goseki = gosekis.Where(r => r.SkillName == needsSkill.SkillName && r.Level >= needsLevel).OrderBy(r=>r.Level).FirstOrDefault();
+                                    var goseki = gosekis.Where(r => r.SkillName == needsSkill.SkillName && r.Level >= needsLevel).OrderByDescending(r=>r.Level).FirstOrDefault();
                                     if (goseki != null)
                                     {
+                                        // 護石のスキルが既にスロットに使われている場合、スロットを開放する
+                                        var usedSkillForGoseki = addSkills.Where(r => r.SkillName == goseki.SkillName && r.SkillLevel > needsLevel).FirstOrDefault();
+
+                                        if (usedSkillForGoseki != null)
+                                        {
+                                            // 護石のレベルの方が高い（または同じ）場合
+                                            if(goseki.Level - needsLevel >= usedSkillForGoseki.SkillLevel)
+                                            {
+                                                // スロットの解放
+                                                if(usedSkillForGoseki.Slot == 1)
+                                                {
+                                                    slot1 += usedSkillForGoseki.SkillLevel;
+                                                }
+                                                else if (usedSkillForGoseki.Slot == 2)
+                                                {
+                                                    slot2 += usedSkillForGoseki.SkillLevel;
+                                                }
+                                                else if (usedSkillForGoseki.Slot == 3)
+                                                {
+                                                    slot3 += usedSkillForGoseki.SkillLevel;
+                                                }
+
+                                                addSkills.Remove(usedSkillForGoseki);
+                                            }
+                                            // 護石のレベルの方が低い場合
+                                            else
+                                            {
+                                                // スロットの解放
+                                                if (usedSkillForGoseki.Slot == 1)
+                                                {
+                                                    slot1 += (goseki.Level- needsLevel);
+                                                }
+                                                else if (usedSkillForGoseki.Slot == 2)
+                                                {
+                                                    slot2 += (goseki.Level - needsLevel);
+                                                }
+                                                else if (usedSkillForGoseki.Slot == 3)
+                                                {
+                                                    slot3 += (goseki.Level - needsLevel);
+                                                }
+                                                usedSkillForGoseki.SkillLevel -= (goseki.Level - needsLevel);
+                                            }
+                                        }
                                         useGoseki = true;
                                         usedGoseki = goseki.GosekiName;
                                     }
